@@ -17,4 +17,4 @@ Either open the package console and type:
 PM> Install-Package JsHttpClient
 ```
 
-Or right-click your project -> Manage NuGet Packages... -> Online -> search for RestEase in the top right.
+Or right-click your project -> Manage NuGet Packages... -> Online -> search for JsHttpClient in the top right.
