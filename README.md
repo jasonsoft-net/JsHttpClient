@@ -29,6 +29,7 @@ Quick Start
 To start, Add JsHttpClient client services at ConfigureServices(IServiceCollection services) .
 
 ```csharp
+//Startup.cs
 public void ConfigureServices(IServiceCollection services)
 {
     //Add JsHttpClient client services
