@@ -3,3 +3,16 @@
 ################################################################################
 
 /JsHttpClient/bin/Release/JsHttpClient.1.0.4.nupkg
+/JsHttpClient/bin/Release/JsHttpClient.1.0.3.nupkg
+/JsHttpClient/bin/Release/JsHttpClient.1.0.2.nupkg
+/JsHttpClient/bin/Release/JsHttpClient.1.0.1.nupkg
+/JsHttpClient/bin/Release/JsHttpClient.1.0.0.nupkg
+/JsHttpClient/bin/Debug/JsHttpClient.1.0.4.nupkg
+/JsHttpClient/bin/Debug/JsHttpClient.1.0.3.nupkg
+/JsHttpClient/bin/Debug/JsHttpClient.1.0.2.nupkg
+/JsHttpClient/bin/Debug/JsHttpClient.1.0.0.nupkg
+/JsHttpClient/bin
+/JsHttpClient/obj
+/JsHttpClient.WebApi/bin
+/JsHttpClient.WebApi/obj
+/.vs/JsHttpClient/v15/Server/sqlite3
