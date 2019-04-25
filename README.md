@@ -1,9 +1,9 @@
 # JsHttpClient
 [![NuGet](https://img.shields.io/nuget/v/RestEase.svg)](https://www.nuget.org/packages/JsHttpClient/)
 
-JsHttpClient is a crawling library for Html pages under .Net Core 
+JsHttpClient is a simple and flexible Html page crawling client library for .Net Core 
 
-JsHttpClient 是 .Net Core 下针对 Html 页面抓取类库
+JsHttpClient 是一个用于在 .Net Core 上简单灵活的 Html 页面抓取客户端库
 
 
 Installation
