@@ -1,7 +1,7 @@
 ![Project Icon](https://avatars2.githubusercontent.com/u/22167571?s=40&v=4) JsHttpClient
 ==================================
 
-[![NuGet](https://img.shields.io/nuget/v/RestEase.svg)](https://www.nuget.org/packages/JsHttpClient/)
+[![NuGet](https://img.shields.io/nuget/v/JsHttpClient.svg)](https://www.nuget.org/packages/JsHttpClient/)
 
 JsHttpClient is a simple and flexible HTML page crawling client library for .Net Core 
 
