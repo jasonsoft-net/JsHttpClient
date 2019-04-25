@@ -1,2 +1,4 @@
 # JsHttpClient
-HttpClient extension class, and the .Net Core version of the HttpHelper class. Simple and flexible crawler base class library. JsHttpClient类是 .Net Core 下的一个简单灵活的爬虫类库
+JsHttpClient is a crawling library for Html pages under .Net Core 
+
+JsHttpClient 是 .Net Core 下针对 Html 页面抓取类库
