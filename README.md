@@ -29,13 +29,13 @@ Quick Start
 To start, Add JsHttpClient client services at ConfigureServices(IServiceCollection services) .
 
 ```csharp
-        public void ConfigureServices(IServiceCollection services)
-        {
-            //Add JsHttpClient client services
-            services.AddJsHttpClient();
+public void ConfigureServices(IServiceCollection services)
+{
+    //Add JsHttpClient client services
+    services.AddJsHttpClient();
             
-            services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
-        }
+    services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
+}
 ```
 
 For Example
