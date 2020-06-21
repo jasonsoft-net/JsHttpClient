@@ -32,8 +32,11 @@ To start, Add JsHttpClient client services at ConfigureServices(IServiceCollecti
 //Startup.cs
 public void ConfigureServices(IServiceCollection services)
 {
-    //Add JsHttpClient client services
+    // Add JsHttpClient client services
     services.AddJsHttpClient();
+    
+    // Allow Auto Redirect Property, The default value is true
+    // services.AddJsHttpClient(new JsHttpClientOptions{ AllowAutoRedirect = false });
             
     services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
 }
